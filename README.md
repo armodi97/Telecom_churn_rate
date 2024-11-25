@@ -1,5 +1,5 @@
 
-# Proyecto de Ciencia de Datos
+# Proyecto de Churn Rate
 
 ## Resumen
 Este proyecto consta de varias etapas de un pipeline de ciencia de datos, implementadas y documentadas en tres notebooks principales:
